@@ -1,0 +1,4 @@
+n1 = int(input('Escolhe um numero ai ze vou fazer uma magia'))
+n2 = int(input('agora escolhe la outro'))
+s = n1 + n2
+print('Prontoo agora repara se tu meteres', n1 , "e" , n2 , 'vai dar' , s)
